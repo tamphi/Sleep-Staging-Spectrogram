@@ -1,4 +1,4 @@
-# E687-PatternRecognition
+# Automated-Sleep-Scoring-DNN
 Sleep stages classification project using spectrogram images - under supervision of Dr. Anup Das and course instructor Dr. Andrew Cohen
 
 ##
